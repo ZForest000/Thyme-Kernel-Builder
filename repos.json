@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "sagit-KernelSU",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8998",
+      "branch": "lineage-20",
+      "device": "sagit"
     },
     "withKernelSU": true,
     "toolchains": [
